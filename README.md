@@ -1,2 +1,1 @@
-# gitlab-docker
-Gitlab Docker
+# Gitlab Docker
